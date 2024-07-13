@@ -1,0 +1,30 @@
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.csproj.AssemblyReference.cache
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\MainWindow.g.cs
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\App.g.cs
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital_MarkupCompile.cache
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital_MarkupCompile.lref
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\bin\Debug\Gestion Hôpital.exe.config
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\bin\Debug\Gestion Hôpital.exe
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\bin\Debug\Gestion Hôpital.pdb
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\MainWindow.baml
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.g.resources
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion_Hôpital.Properties.Resources.resources
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.csproj.GenerateResource.cache
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.csproj.CoreCompileInputs.cache
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.exe
+C:\Users\mehdiboudiaf\source\repos\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.pdb
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\bin\Debug\Gestion Hôpital.exe.config
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\bin\Debug\Gestion Hôpital.exe
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\bin\Debug\Gestion Hôpital.pdb
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital_MarkupCompile.cache
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital_MarkupCompile.lref
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.g.resources
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion_Hôpital.Properties.Resources.resources
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.exe
+\\Mac\Home\Downloads\Gestion Hôpital\Gestion Hôpital\obj\Debug\Gestion Hôpital.pdb
